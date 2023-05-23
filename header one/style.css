@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  font-family: monospace;
+  background: #fa5252;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo{
+  font-size: 48px;
+  font-weight: 900;
+  color: #82c91e;
+  background: white;
+  padding: 4px 32px;
+  align-items: center;
+  margin: auto;
+
+}
+
+ul{
+  list-style-type: none;
+  padding: 25px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+ 
+}
+
+a{
+  font-size: 22px;
+  background: white;
+  padding: 8px;
+  margin: 30px;
+  gap: 5px;
+  text-decoration: none;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Roboto&family=Source+Sans+Pro:ital,wght@0,600;1,200;1,300;1,400;1,600&display=swap');
+
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body{
+background-image: url(./assets/background-body.webp);
+}
+
+h1{
+background-color: aquamarine;
+}
+
+
+.content{
+  background-color: blue;
+   background-image: url(./assets/background-title.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 50%;
+}
